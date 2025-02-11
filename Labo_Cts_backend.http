@@ -1,0 +1,6 @@
+@Labo_Cts_backend_HostAddress = http://localhost:5189
+
+GET {{Labo_Cts_backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
